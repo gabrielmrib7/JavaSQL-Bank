@@ -19,6 +19,6 @@ Conta com uma tela principal mostrando os serviços que a aplicação oferece.<b
 <br>Conta com um sistema de transfêrencia entre as contas, necessitando do numero da conta que o usuario deseja transferir e o valor.<br>
 <img src="src/javasqlbank/Resources/TRANSFERENCIA.jpg"><br>
 
-#Arquivo .JAR
+# Arquivo .JAR
 Disponivel na pasta dist/JavaSQLBank.jar
 
