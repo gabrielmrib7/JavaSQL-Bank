@@ -21,7 +21,7 @@ Conta com uma tela principal mostrando os serviços que a aplicação oferece.<b
 
 # Arquivo .JAR
 Um arquivo para acessar a aplicação disponivel na pasta dist/JavaSQLBank.jar
- - O diretório dist/lib/ deve ser instalado também.
+ - O diretório dist/lib/ deve ser instalado também, pois o arquivo presente na pasta é necessário para a conexão com o banco de dados.
  - Necessário ter o Java atualizado instalado para executa-lo
  - LINK JAVA: https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-windows
 
