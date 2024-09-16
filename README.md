@@ -4,6 +4,7 @@ Conta com um banco de dados hospedado em Nuvem, na AWS.
 
 ## Cadastro
 Conta com um sistema de cadastro, que gera automaticamente o numero da conta do usuario, armazenando em nuvem na AWS.
+<img src="src/javasqlbank/Resources/cadastro720.jpg">
 ## Login
 Apos o cadastro a conta do usuário estará armazenada no banco de dados, possibilitando-o de acessar sua conta.
 ## Saque
