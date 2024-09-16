@@ -20,5 +20,7 @@ Conta com uma tela principal mostrando os serviços que a aplicação oferece.<b
 <img src="src/javasqlbank/Resources/TRANSFERENCIA.jpg"><br>
 
 # Arquivo .JAR
-Disponivel na pasta dist/JavaSQLBank.jar
+Um arquivo para acessar a aplicação disponivel na pasta dist/JavaSQLBank.jar
+ - Necessário ter o Java atualizado instalado para executa-lo
+ - LINK JAVA: https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-windows
 
