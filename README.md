@@ -1,4 +1,4 @@
-#Aviso
+# Aviso
 Banco de dados desativado!
 
 # JavaSQL-Bank
