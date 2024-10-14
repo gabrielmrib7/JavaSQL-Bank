@@ -1,3 +1,6 @@
+#Aviso
+Banco de dados desativado!
+
 # JavaSQL-Bank
 Aplicação de um sistema de contas bancárias, feito em Java e MySQL.
 Conta com um banco de dados hospedado em Nuvem, na AWS.
